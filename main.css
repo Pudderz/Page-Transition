@@ -46,3 +46,15 @@ button{
 .pointer{
     pointer-events: auto !important;
 }
+
+
+#sect2{
+    display:none;
+    z-index:2;
+    position:absolute;
+    color:#9eebcd;
+    text-shadow: -1px -1px #557c6d;
+}
+.show{
+    display:block !important;
+}
